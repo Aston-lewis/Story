@@ -1,0 +1,1 @@
+this is the github trial of using the git init to intialise and to make it commitable we use git add . 
